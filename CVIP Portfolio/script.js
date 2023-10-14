@@ -16,7 +16,7 @@ function resume(){
   }
 
 // Third-party library to disply GitHub Calender
-GitHubCalendar(".calendar", "Ramanand1101", {
+GitHubCalendar(".calendar", "ashishkumarpalai", {
     responsive: true,
     global_stats: true,
     tooltips: true
